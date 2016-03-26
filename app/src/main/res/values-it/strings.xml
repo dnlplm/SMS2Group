@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMS2Group</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="title_activity_group_contacts">Contatti</string>
+    <string name="error_group_name">Inserisci il nome del gruppo</string>
+    <string name="group_inserted">Gruppo inserito</string>
+    <string name="error_group_db">Errore nel salvataggio del gruppo</string>
+    <string name="error_contact_db">Errore nell\'aggiunta del contatto</string>
+    <string name="delete_group_title">Eliminazione gruppo</string>
+    <string name="delete_group_question">Confermi l\'eliminazione del gruppo?</string>
+    <string name="contact_no_phone">Il contatto non ha numeri di telefono</string>
+    <string name="contact_already_present">Il contatto è già nel gruppo</string>
+    <string name="edit_main_hint">Nome del gruppo</string>
+    <string name="read_permission_granted">Permesso lettura contatti accordato</string>
+    <string name="read_permission_explanation">SMS2Group ha bisogno di leggere i tuoi contatti. Se neghi il permesso non potrà funzionare.</string>
+    <string name="alert_read_permission_title">Negare il permesso?</string>
+    <string name="alert_read_permission_yes">Riconsidera la decisione</string>
+    <string name="alert_read_permission_no">Si, nega!</string>
+    <string name="empty_list_groups">Prima di aggiungere i contatti devi creare un gruppo: scrivi il nome del gruppo nello spazio sopra e premi il pulsante in basso a destra</string>
+    <string name="empty_list_contacts">Per aggiungere contatti premi il pulsante in basso a destra</string>
+</resources>
